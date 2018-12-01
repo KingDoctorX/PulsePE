@@ -5,7 +5,7 @@ ToDo list:
 - [ ] Authorization dialog.
 - [ ] Create more GUI.
 - [x] Create commands.
-- [x] Create update GUI.
+- [x] Create update UI.
 - [x] Connect with GitHub .json files to read data
 - [x] Create directories with config.dat
 - [x] Create ESP with single player ESP and custom item/block ESP.
