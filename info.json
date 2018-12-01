@@ -2,8 +2,6 @@
   "website": "https://www.KingDoctorX.tk/",
   "version": "1.2.2",
   "changelog": "First release of PulsePE to the 2 player's who have purchased the client, for every 25 purchases I will decrease the price of the client from USD$12 by 35% and then after one week the price will go back up to USD$12, thank you for your purchase",
-  "serverIP": "KingDoctorX.tk",
-  "serverPort": "19132",
   "auth": false,
   "ban": "If you have gotten this message then you have been banned or you're not allowed to access ths client, if you have previously been able to use this client then you have been banned for the distribution of this client or the attempt of modifing the client. Contact KingDoctorX for more details."
 }
