@@ -1,0 +1,1 @@
+["1.2.2", true, "Thank you for buying! Please contact me if you need help with a feature or there is an error."]
