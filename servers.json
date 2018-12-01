@@ -1,0 +1,12 @@
+{,
+   "PulsePE": {
+      "name": "PulsePE"
+      "ip": "play.pulsepe.net",
+      "port": "19132"
+   },
+   "KingDoctorX": {
+      "name": "not released.",
+      "ip": "play.kingdoctorx.tk",
+      "port": "19132"
+   }
+}
